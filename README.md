@@ -3,3 +3,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 # Crypto Ticker
 Simple web app to display current prices of various cyptocurrencies
 
+Simply run with npm start
+
