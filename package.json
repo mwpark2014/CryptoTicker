@@ -8,6 +8,7 @@
     "react-dom": "^16.2.0",
     "react-scripts": "1.0.17"
   },
+  "homepage": "https://mwpark2014.github.io/CryptoTicker/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
