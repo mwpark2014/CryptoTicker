@@ -5,3 +5,5 @@ Simple web app to display current prices of various cyptocurrencies
 
 Simply run with npm start
 
+See this work at mwpark2014.github.io/CryptoTicker/!
+
