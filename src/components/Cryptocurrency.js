@@ -12,6 +12,7 @@ class Cryptocurrency extends Component {
             percent_change_24h,
             percent_change_7d,
         } = this.props.data;
+        console.log(this.props.data);
         return (
             <li className={"cryptocurrency " + id}>
                 <p className="cryptocurrency-name">{name} ({symbol})</p>
